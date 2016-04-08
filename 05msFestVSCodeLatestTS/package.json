@@ -8,8 +8,10 @@
   },
   "author": "me",
   "license": "ISC",
+  "dependencies": {
+    "is_js": "^0.8.0"
+  },
   "devDependencies": {
-    "is_js": "^0.8.0",
     "typescript": "^1.9.0-dev.20160408"
   }
 }
