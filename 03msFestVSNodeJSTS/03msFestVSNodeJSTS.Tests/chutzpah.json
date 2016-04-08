@@ -1,0 +1,22 @@
+{
+  "CodeCoverageExcludes": [ "*\\Scripts\\*" ],
+  "EnableTestFileBatching": true,
+  "Framework": "mocha",
+  "MochaInterface": "bdd",
+  "TestFileTimeout": 600000, // <-- avoid Timeout error
+  "TestHarnessLocationMode": "SettingsFileAdjacent",
+  "References": [
+    {
+      "Path": "Scripts"
+    },
+    {
+      "Path": "chai.js"
+    }
+  ],
+  "Tests": [
+    {
+      "Path": "MochatTests"
+    },
+    { "Includes": [ "*.Tests.js" ] }
+  ]
+}
