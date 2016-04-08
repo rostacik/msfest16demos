@@ -1,0 +1,8 @@
+{
+  "name": "04",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "is_js": "registry:dt/is_js#0.0.0+20160316155526"
+  }
+}

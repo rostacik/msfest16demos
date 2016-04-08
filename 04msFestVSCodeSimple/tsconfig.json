@@ -1,0 +1,13 @@
+{
+    "files": [
+        "src/app.ts",
+        "src/myClassFile.ts",
+        "typings/main.d.ts",
+        "src/custom.d.ts"
+    ],
+    "compilerOptions": {
+        "target": "es2015",
+        "sourceMap": true,
+        "module": "commonjs"
+    }
+}
