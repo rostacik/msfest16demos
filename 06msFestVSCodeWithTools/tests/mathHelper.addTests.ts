@@ -47,5 +47,11 @@ describe('mathHelper tests', () => {
 
       assert.equal(res, 8);
     });
+
+    it('should return 3 from 1 + 2', () => {
+      let res: number = MathHelper.add(1, 2);
+
+      assert.equal(res, 3);
+    });
   });
 });
