@@ -1,0 +1,10 @@
+{
+  "name": "04",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "is_js": "registry:dt/is_js#0.0.0+20160316155526",
+    "mocha": "registry:dt/mocha#2.2.5+20160317120654",
+    "node": "registry:dt/node#4.0.0+20160330064709"
+  }
+}

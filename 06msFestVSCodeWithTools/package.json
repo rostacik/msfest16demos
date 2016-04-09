@@ -1,0 +1,27 @@
+{
+  "name": "05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.1.2",
+    "gulp-tsb": "^1.9.0",
+    "gulp-tslint": "^4.3.2",
+    "gulp-typedoc": "^1.2.1",
+    "mocha": "^2.2.5",
+    "mocha-jenkins-reporter": "^0.2.2",
+    "tslint": "^3.3.0",
+    "typescript": "^1.8.9",
+    "yargs": "^4.4.0"
+  },
+  "dependencies": {
+    "is_js": "^0.8.0"
+  }
+}
