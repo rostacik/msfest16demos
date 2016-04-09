@@ -3,7 +3,7 @@ import * as is from "is_js";
 /**
  * math helper
  */
-export class mathHelper {
+export class MathHelper {
 
     /** add two numbers
      * @param  {number} param1
