@@ -37,15 +37,15 @@ describe('mathHelper tests', () => {
     });
 
     it('should return 4 from 2 + 2', () => {
-      let res: number = mathHelper.add(1, 1);
+      let res: number = mathHelper.add(2, 2);
 
-      assert.equal(res, 2);
+      assert.equal(res, 4);
     });
 
     it('should return 8 from 4 + 4', () => {
-      let res: number = mathHelper.add(1, 1);
+      let res: number = mathHelper.add(4, 4);
 
-      assert.equal(res, 2);
+      assert.equal(res, 8);
     });
   });
 });

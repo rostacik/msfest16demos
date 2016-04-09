@@ -30,20 +30,20 @@ describe('mathHelper tests', () => {
       );
     });
 
-    it('should return 2 from 1 + 1', () => {
+    it('should return 0 from 1 + 1', () => {
       let res: number = mathHelper.sub(1, 1);
 
       assert.equal(res, 0);
     });
 
-    it('should return 4 from 2 + 2', () => {
-      let res: number = mathHelper.sub(1, 1);
+    it('should return 0 from 2 - 2', () => {
+      let res: number = mathHelper.sub(2, 2);
 
       assert.equal(res, 0);
     });
 
-    it('should return 8 from 4 + 4', () => {
-      let res: number = mathHelper.sub(1, 1);
+    it('should return 0 from 4 - 4', () => {
+      let res: number = mathHelper.sub(4, 4);
 
       assert.equal(res, 0);
     });
