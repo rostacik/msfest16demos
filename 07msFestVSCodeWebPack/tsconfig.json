@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false
+    },
+    "files": [
+        "ts/greeter.ts",
+        "ts/app.ts",
+        "typings/main.d.ts"
+    ]
+}
