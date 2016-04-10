@@ -234,3 +234,21 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/01msFestVSSimple/01msFestVSSimple/Scripts/ts/*.js
+/01msFestVSSimple/01msFestVSSimple/Scripts/ts/*.map
+/02msFestVSLatestTS/02msFestVSLatestTS/Scripts/ts/*.js
+/03msFestVSNodeJSTS/03msFestVSNodeJSTS/Scripts/ts/*.js
+/03msFestVSNodeJSTS/03msFestVSNodeJSTS/Scripts/ts/*.map
+/04msFestVSCodeSimple/src/*.js
+/04msFestVSCodeSimple/src/*.map
+/05msFestVSCodeLatestTS/src/*.js
+/05msFestVSCodeLatestTS/src/*.map
+/06msFestVSCodeWithTools/coverage
+/06msFestVSCodeWithTools/src/*.js
+/06msFestVSCodeWithTools/src/*.map
+/06msFestVSCodeWithTools/test-report.xml
+/06msFestVSCodeWithTools/tests/*.js
+/06msFestVSCodeWithTools/tests/*.map
+/09msFestVSCodeSalsaDemo/res
+/08msFestVSCodeClassDemo/src/*.js
+/08msFestVSCodeClassDemo/src/*.map
